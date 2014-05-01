@@ -1,0 +1,14 @@
+﻿Build started 12/2/2013 6:49:00 PM.
+     1>Project "c:\Users\Stoyan\documents\visual studio 2012\Projects\FundamentalDataStructuresProject\AubgMajors\AubgMajors.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\stoyan\documents\visual studio 2012\projects\fundamentaldatastructuresproject\aubgmajors\source.cpp(212): error C2011: 'ComputerScience' : 'class' type redefinition
+                 c:\users\stoyan\documents\visual studio 2012\projects\fundamentaldatastructuresproject\aubgmajors\source.cpp(128) : see declaration of 'ComputerScience'
+     1>c:\users\stoyan\documents\visual studio 2012\projects\fundamentaldatastructuresproject\aubgmajors\source.cpp(264): error C2011: 'Economics' : 'class' type redefinition
+                 c:\users\stoyan\documents\visual studio 2012\projects\fundamentaldatastructuresproject\aubgmajors\source.cpp(157) : see declaration of 'Economics'
+     1>Done Building Project "c:\Users\Stoyan\documents\visual studio 2012\Projects\FundamentalDataStructuresProject\AubgMajors\AubgMajors.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.17
